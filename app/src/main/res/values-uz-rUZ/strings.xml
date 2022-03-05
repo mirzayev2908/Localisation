@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tillar</string>
+    <style name="hello_world">Assalomu alaykum</style>
+    <style name="do_something_button">Qil nimadir</style>
+</resources>
